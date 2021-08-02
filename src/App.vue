@@ -1,9 +1,11 @@
 <template>
+  <Navbar></Navbar>
+
   <div class="bg-gray-50 px-40">
     <div class="flex h-screen">
       <div class="flex items-center justify-end w-full pr-14">
         <div class="relative h-auto w-auto">
-          <img src="./assets/celine-portrait.png" alt="celine-portrait" class="relative h-full w-full max-h-80 max-w-xs rounded-full border-2 border-green-600 z-10">
+          <img src="./assets/celine-portrait.png" alt="celine-portrait" class="relative h-full w-full max-h-80 max-w-xs rounded-full border-2 border-green-600 z-10 filter drop-shadow-lg">
           <div class="absolute top-1/2 right-1/2 z-0 bg-green-400 h-3/5 w-3/5 rounded-full bg-gradient-to-tr from-green-600 to-green-200"></div>
           <div class="absolute bottom-1/3 left-1/3 z-0 h-4/5 w-4/5 rounded-full bg-gradient-to-tr from-green-600 to-green-200"></div>
         </div>

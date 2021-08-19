@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="flex justify-between items-center fixed h-20 w-screen bg-green-400 filter drop-shadow-lg z-20 px-20">
+    <div class="flex justify-between items-center fixed h-20 w-screen bg-celine-green filter drop-shadow-lg z-20 px-20">
       <h1 class="pl-20">(LOGO HERE)</h1>
       <div class="flex justify-end w-3/4">
         <div class="flex justify-between items-center w-96">
